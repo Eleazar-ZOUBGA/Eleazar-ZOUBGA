@@ -1,7 +1,7 @@
 # Wend-Yam Eléazar ZOUBGA
 
 Data & ML Engineer | Deep Learning | AI & Full-Stack Development  
-Email: zoubga.eleazar@gmail.com  
+Email: eleazarzoubga@gmail.com  
 Portfolio: https://we-zoubga.fr  
 LinkedIn: https://www.linkedin.com/in/wend-yam-eleazar-zoubga
 
@@ -28,7 +28,7 @@ Docker · Kubernetes · IBM Cloud · Git
 React · Node.js · Django · MongoDB  
 
 **Other Languages:**  
-Java · C++ · JavaScript · TypeScript
+Java · C · JavaScript · TypeScript
 
 ---
 
