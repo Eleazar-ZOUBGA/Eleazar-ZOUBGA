@@ -1,12 +1,3 @@
-# Wend-Yam Eléazar ZOUBGA
-
-Data & ML Engineer | Deep Learning | AI & Full-Stack Development  
-Email: eleazarzoubga@gmail.com  
-Portfolio: https://we-zoubga.fr  
-LinkedIn: https://www.linkedin.com/in/wend-yam-eleazar-zoubga
-
----
-
 ## 👋 About Me
 
 I’m an engineering student specializing in **Artificial Intelligence**, **Machine Learning**, and **Software Development**.  
